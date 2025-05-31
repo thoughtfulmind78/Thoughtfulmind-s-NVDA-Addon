@@ -1,10 +1,13 @@
+
 MyGrammarPlugin (NVDA Add-on)
+
 Developed by Leonard Lato
 
 Github: https://github.com/thoughtfulmind78/Thoughtfulmind-s-NVDA-Addon
 
 This add-on provides quick access to definitions and examples of various English grammar terms. It also allows you to search for noun meanings and save a log of spoken grammar terms.
 
+=======
 
 Usage
 This add-on is designed to assist users with visual impairment in understanding fundamental English grammar concepts and quickly accessing definitions.
