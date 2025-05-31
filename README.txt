@@ -1,20 +1,19 @@
-#Thoughtfulmind's NVDA Add-ons
- 
-This repository contains a collection of small add-ons for the NVDA screen reader, designed to enhance its features and provide additional functionality.
- 
-MyGrammarPlugin (Latest Release)
- 
+
+MyGrammarPlugin (NVDA Add-on)
 
 Developed by Leonard Lato
-GitHub: https://github.com/thoughtfulmind78/Thoughtfulmind-s-NVDA-Addon
- 
-MyGrammarPlugin is an NVDA add-on that offers quick access to definitions and examples of various English grammar terms. It also allows you to search for noun meanings and maintain a log of spoken grammar terms.
- 
+
+Github: https://github.com/thoughtfulmind78/Thoughtfulmind-s-NVDA-Addon
+
+This add-on provides quick access to definitions and examples of various English grammar terms. It also allows you to search for noun meanings and save a log of spoken grammar terms.
+
+=======
+
 Usage
-This add-on is designed to help users with visual impairment understand fundamental English grammar concepts and quickly access definitions.
- 
-Keyboard Commands
-Here are the keyboard shortcuts for MyGrammarPlugin:
+This add-on is designed to assist users with visual impairment in understanding fundamental English grammar concepts and quickly accessing definitions.
+
+
+Keyboard Keystrokes
 • NVDA+Alt+N: Speaks the definition of a Noun.
 • NVDA+Alt+V: Speaks the definition of a Verb.
 • NVDA+Alt+A: Speaks the definition of an Adjective.
@@ -25,7 +24,7 @@ Here are the keyboard shortcuts for MyGrammarPlugin:
 • NVDA+Alt+R: Speaks the definition of a Preposition.
 • NVDA+Alt+D: Speaks the definition of Modifiers.
 • NVDA+Shift+Control+T: Speaks the two parts of a Sentence (Subject and Predicate).
-• Control+NVDA+7: Opens the Resources for the Blind Inc. website in your web browser (requires an internet connection).
+• Control+NVDA+7: Opens the Resources for the Blind Inc. website in your web browser. (Requires an internet connection).
 • NVDA+Control+N: Announces a dedicated definition of the word "Noun".
 • Control+NVDA+8:
 • Single Press: Prompts you to enter and save a grammar term and its meaning to the add-on's log.
@@ -34,3 +33,5 @@ Here are the keyboard shortcuts for MyGrammarPlugin:
 • Control+NVDA+9: Saves the entire grammar log from your current session to a file named nvda_grammar_log.txt on your desktop.
 
 
+
+=======

@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 'clipspeak' package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 'clipspeak' '2024.01.04'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2024-03-21 02:04+0000\n"
+"PO-Revision-Date: 2024-03-21 02:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:102
+msgid "Cut selected item to clipboard, if appropriate."
+msgstr "Ausgewähltes Symbol in die Zwischenablage ausgeschnitten."
+
+#. Translators: Name of the section in "Input gestures" dialog.
+#: addon\globalPlugins\clipspeak\__init__.py:104
+#: addon\globalPlugins\clipspeak\__init__.py:119
+#: addon\globalPlugins\clipspeak\__init__.py:134
+#: addon\globalPlugins\clipspeak\__init__.py:155
+#: addon\globalPlugins\clipspeak\__init__.py:170
+#: addon\globalPlugins\clipspeak\__init__.py:184
+msgid "Clipboard"
+msgstr "Zwischenablage"
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:117
+msgid "Copy selected item to clipboard, if appropriate."
+msgstr "kopiere ausgewähltes Symbol in die Zwischenablage"
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:132
+msgid "Copy path of selected file to clipboard, if appropriate."
+msgstr ""
+"Kopieren Sie den Pfad der ausgewählten Datei in die Zwischenablage, falls "
+"erforderlich."
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:153
+msgid "Paste item from clipboard, if appropriate."
+msgstr "füge ausgewähltes Symbol aus der Zwischenablage ein"
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:168
+msgid "Undo operation."
+msgstr "mache Operation rückgängig"
+
+#. Translators: Message to be announced during Keyboard Help
+#: addon\globalPlugins\clipspeak\__init__.py:182
+msgid "Redo operation."
+msgstr "Operation wiederherstellen."
+
+#. Translators: A single word representing an item in a list.
+#: addon\globalPlugins\clipspeak\__init__.py:404
+msgid "item"
+msgstr "Symbol"
+
+#. Translators: Message to speak when undoing.
+#: addon\globalPlugins\clipspeak\__init__.py:409
+msgid "Undo"
+msgstr "rückgängig"
+
+#. Translators: A message spoken when redoing a previously undone operation.
+#: addon\globalPlugins\clipspeak\__init__.py:413
+msgid "Redo"
+msgstr "Wiederholen"
+
+#. Translators: A message to speak when cutting text or files/folders to the clipboard.
+#: addon\globalPlugins\clipspeak\__init__.py:418
+#: addon\globalPlugins\clipspeak\__init__.py:421
+#, python-format
+msgid "Cut %s"
+msgstr "%s ausgeschnitten"
+
+#. Translators: A message spoken when copying text to the clipboard.
+#. Translators: A message spoken when copying files/folders to the clipboard.
+#. Translators: A message spoken when copying the path of a file.
+#: addon\globalPlugins\clipspeak\__init__.py:429
+#: addon\globalPlugins\clipspeak\__init__.py:435
+#: addon\globalPlugins\clipspeak\__init__.py:444
+#, python-format
+msgid "Copy %s"
+msgstr "%s in die Zwischenablage kopiert"
+
+#. Translators: A message spoken when pasting text from the clipboard.
+#: addon\globalPlugins\clipspeak\__init__.py:452
+#: addon\globalPlugins\clipspeak\__init__.py:459
+#, python-format
+msgid "Pasted %s"
+msgstr "%s aus der Zwischenablage eingefügt"
+
+#. Translators: Title of the ClipSpeak settings dialog in the NVDA settings.
+#: addon\globalPlugins\clipspeak\__init__.py:468
+msgid "ClipSpeak"
+msgstr "Erweiterung zur Ansage von Informationen der Zwischenablage."
+
+#. Translators: Checkbox name in the configuration dialog
+#: addon\globalPlugins\clipspeak\__init__.py:474
+msgid "Announce only copy/cut/paste"
+msgstr "Nur Kopieren/Ausschneiden/Einfügen mitteilen"
+
+#: addon\globalPlugins\clipspeak\clipboardMonitor.py:51
+msgid "file/folder "
+msgstr ""
+
+#: addon\globalPlugins\clipspeak\clipboardMonitor.py:55
+msgid "files/folders: "
+msgstr ""
+
+#: addon\globalPlugins\clipspeak\clipboardMonitor.py:57
+msgid " files/folders"
+msgstr ""
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "Clipspeak"
+msgstr ""
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid "Add-on to speak clipboard information."
+msgstr "Erweiterung zur Ansage von Informationen der Zwischenablage."
